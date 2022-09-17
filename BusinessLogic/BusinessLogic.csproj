@@ -11,4 +11,8 @@
       <ProjectReference Include="..\IDataAccess\IDataAccess.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Azure.Core" Version="1.25.0" />
+    </ItemGroup>
+
 </Project>
